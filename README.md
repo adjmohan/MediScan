@@ -133,4 +133,11 @@ flutter build apk --release
 # For iOS
 flutter build ios --release
 ```
+## 🖼️ Preview
+
+![SkillStream Dashboard]
+
+<img width="343" height="577" alt="Screenshot 2025-07-26 213659" src="https://github.com/user-attachments/assets/6fa41444-d881-4841-8477-25ec40bafe89" />      ```
+
+<img width="343" height="741" alt="Screenshot 2025-07-26 214114" src="https://github.com/user-attachments/assets/08a56d27-5516-4f3b-9883-b844c4f48be4" />
 
