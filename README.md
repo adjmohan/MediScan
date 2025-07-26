@@ -135,7 +135,7 @@ flutter build ios --release
 ```
 ## 🖼️ Preview
 
-![SkillStream Dashboard]
+![MediScan Dashboard]
 
 <img width="343" height="577" alt="Screenshot 2025-07-26 213659" src="https://github.com/user-attachments/assets/6fa41444-d881-4841-8477-25ec40bafe89" />      ```
 
